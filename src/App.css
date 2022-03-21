@@ -1,0 +1,51 @@
+body{
+  background-color: cornflowerblue;
+}
+
+th {
+  background-color: cornflowerblue;
+  border: 1px solid black;
+  width: 500px;
+  height: 50px;
+}
+
+tbody tr td{
+  text-align: start;
+  border: 1px solid black;
+  font-size: 20px;
+}
+
+
+
+.log{
+  font-size: 18px;
+  padding: 25px;
+  word-spacing: 15px;
+  text-align: center;
+}
+
+.tabla{
+  bottom: 410px;
+  left: 510px;
+  width: 825px;
+}
+
+.dtabla{
+  margin: 0 auto;
+  background-color:azure;
+  width: 1000px;
+  height: 500px;
+}
+
+#Scrollbar {
+  overflow:scroll;
+  width: 1000px;
+  height: 500px;
+}
+
+.h1{
+  font-size: 20px;
+  background-color: azure;
+  text-align: center;
+  padding: 25px;
+}
